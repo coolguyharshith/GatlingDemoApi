@@ -1,0 +1,10 @@
+{
+  "simulation": "com.perf.tests.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1688574590043,
+  "description": "",
+  "scenarios": ["Scenario Name"],
+  "assertions": [
+
+  ]
+}
